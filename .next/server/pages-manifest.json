@@ -1,7 +1,1 @@
-{
-  "/_error": "pages/_error.js",
-  "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
-  "/404": "pages/404.js",
-  "/": "pages/index.js"
-}
+{"/_app":"pages/_app.js","/_document":"pages/_document.js","/404":"pages/404.html","/_error":"pages/_error.js","/about":"pages/about.html","/api/hello":"pages/api/hello.js","/career/apply-position":"pages/career/apply-position.html","/career":"pages/career.html","/contact":"pages/contact.html","/event-details":"pages/event-details.html","/faq":"pages/faq.html","/event":"pages/event.html","/":"pages/index.html","/industry-details":"pages/industry-details.html","/our-people2":"pages/our-people2.html","/people-details":"pages/people-details.html","/service-details":"pages/service-details.html","/terms-conditions":"pages/terms-conditions.html","/service":"pages/service.html"}
