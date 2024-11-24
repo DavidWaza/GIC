@@ -25,3 +25,6 @@ Thumbs.db
 .vscode/
 *.sublime-workspace
 *.sublime-project
+
+# Folder
+.next/cache/webpack/client-production/0.pack
