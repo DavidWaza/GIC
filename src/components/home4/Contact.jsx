@@ -7,7 +7,7 @@ const Contact = () => {
     <div className="row g-4">
       <div className="col-lg-4 d-lg-flex d-none">
         <div className="contact-img">
-          <img src="assets/img/home4/contact-left-img.jpg" alt="" />
+          <img src="assets/img/slider/consults_slider_two.jpg" alt="" />
           <div className="logo">
             <img src="assets/img/home4/contact-piramid.svg" alt="" />
           </div>

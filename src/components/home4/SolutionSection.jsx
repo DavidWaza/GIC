@@ -127,7 +127,7 @@ const SolutionSection = () => {
               </div>
             </div>
             <div className="company-logo two">
-              <h2>APLOXN</h2>
+              <h2>GIC</h2>
             </div>
           </div>
         </div>

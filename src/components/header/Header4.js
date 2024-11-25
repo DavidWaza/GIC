@@ -103,8 +103,9 @@ const Header4 = () => {
           <div className="col-xxl-2 col-xl-3 col-lg-3">
             <div className="logo-area">
               <Link legacyBehavior href="/">
-                <a>
-                  <img src="assets/img/white-logo.svg" alt="" />
+                <a style={{color: 'white', fontSize:'50px   '}}>
+                  {/* <img src="assets/img/white-logo.svg" alt="" /> */}
+                  GIC
                 </a>
               </Link>
             </div>
@@ -402,7 +403,7 @@ const Header4 = () => {
                       className="banner-wrapper"
                       style={{
                         backgroundImage:
-                          "linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 100%), url(assets/img/home4/banner-img-02.jpg)",
+                          "linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 100%), url(assets/img/slider/consults_slider_one.jpg)",
                       }}
                     >
                       <div className="banner-content">
@@ -427,7 +428,7 @@ const Header4 = () => {
                       className="banner-wrapper"
                       style={{
                         backgroundImage:
-                          "linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 100%), url(assets/img/home4/banner-img-03.jpg)",
+                          "linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 100%), url(assets/img/slider/consults_slider_two.jpg)",
                       }}
                     >
                       <div className="banner-content">
@@ -451,7 +452,7 @@ const Header4 = () => {
                       className="banner-wrapper"
                       style={{
                         backgroundImage:
-                          "linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 100%), url(assets/img/home4/banner-img-04.jpg)",
+                          "linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.45) 100%), url(assets/img/slider/consults_slider_three.jpg)",
                       }}
                     >
                       <div className="banner-content">

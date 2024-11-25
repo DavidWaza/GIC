@@ -4,10 +4,7 @@ import SolutionSection from '../components/home4/SolutionSection'
 import About from '../components/home4/About'
 import ServicesTabSection from '../components/home4/ServicesTabSection'
 import VideoArea from '../components/home4/VideoArea'
-import Testimonail from '../components/home4/Testimonail'
 import CountryMapSection from '../components/home4/CountryMapSection'
-import ClientSection from '../components/home4/ClientSection'
-import Portfolio from '../components/home4/Portfolio'
 import EventAndConfaranceSection from '../components/home4/EventAndConfaranceSection'
 import People from '../components/home4/People'
 import Contact from '../components/home4/Contact'
@@ -23,13 +20,10 @@ const HomepageFour = () => {
      <EventAndConfaranceSection/>
      <ServicesTabSection/>
      <VideoArea/>
-     {/* <Testimonail/> */}
      <CountryMapSection/>
-     <ClientSection/>
-     {/* <Portfolio/> */}
      <People/>
      <Contact/>
-     <Blog/>
+     {/* <Blog/> */}
      <Footer2/>
     </>
   )
